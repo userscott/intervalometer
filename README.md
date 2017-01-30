@@ -1,2 +1,2 @@
-# intervalometer
+# Intervalometer
 PCB DSLR Camera Controller
